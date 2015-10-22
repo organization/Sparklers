@@ -1,0 +1,8 @@
+name: Sparklers
+main: ifteam\Sparklers\Sparklers
+version: 0.1-Alpha
+author: hm
+api:
+- 1.12.0
+- 1.13.0
+- 2.0.0
